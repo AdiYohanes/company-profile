@@ -1,21 +1,21 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "ONE STOP SOLUTION FOR ANY OIL SPILL PROBLEMS.",
+    "paragraph": "A Trusted Business Partner.Committed to Protect Environment"
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "Protecting Indonesia's Waters Since 2006. PT. Blue Ocean Sejahtera is an independent Indonesian company dedicated to safeguarding our marine environment. We design, manufacture, install, and commission cutting-edge oil spill response equipment for platforms, ships, jetties, drilling operations, and beyond. From our Jakarta headquarters and workshops in Bekasi and Sentul, our team of seasoned experts is committed to excellence. We're constantly pushing the boundaries of engineering to ensure that Indonesia's waters remain pristine for generations to come.",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "Local expertise, global standards.",
+      "Proven track record since 2006.",
+      "Complete end-to-end solutions.",
+      "Rapid 24/7 response."
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "Continuous innovation.",
+      "Long-term partnership.",
+      "Safeguarding operations, preserving the seas.",
+      "Trust & Tranquility"
     ]
   },
   "Gallery": [
@@ -159,26 +159,30 @@
     "twitter": "twitter.com",
     "youtube": "youtube.com"
   },
-  "Features": [
+  "Projects": [
     {
-      "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-solid fa-droplet",
+      "title": "OIL SPILL",
+      "text": "We provide rapid response solutions to contain and clean oil spills, protecting marine ecosystems from damage.",
+      "image": "img/projects/oilspill.jpg"
     },
     {
       "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "TRAINING",
+      "text": "Our comprehensive training equips employees with the skills needed to effectively manage oil spills and ensure environmental safety.",
+      "image": "img/projects/training.png"
     },
     {
       "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "DESIGN & MANUFACTURING",
+      "text": "We design and manufacture specialized equipment to enhance efficiency in oil spill management and maritime infrastructure.",
+      "image": "img/projects/design.jpg"
     },
     {
       "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "ASSESMENT",
+      "text": "We offer thorough assessments to evaluate risks and ensure the implementation of safe, effective solutions for oil spill management.",
+      "image": "img/projects/assesment.jpg"
     }
   ]
 }
