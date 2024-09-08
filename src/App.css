@@ -16,3 +16,6 @@
     width: 110%;
   }
 }
+.rounded-image {
+  border-radius: 50%; 
+}

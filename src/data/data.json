@@ -20,141 +20,162 @@
   },
   "Gallery": [
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/01-large.jpg",
-      "smallImage": "img/portfolio/01-small.jpg"
+      "title": "OIL SPILL RESPONSE",
+      "largeImage": "img/portfolio/1.jpg",
+      "smallImage": "img/portfolio/1-kecil.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/02-large.jpg",
-      "smallImage": "img/portfolio/02-small.jpg"
+      "title": "DESIGN & MANUFACTURING",
+      "largeImage": "img/portfolio/2.jpg",
+      "smallImage": "img/portfolio/2-kecil.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/03-large.jpg",
-      "smallImage": "img/portfolio/03-small.jpg"
+      "title": "OIL SPILL RESPONSE",
+      "largeImage": "img/portfolio/3.jpg",
+      "smallImage": "img/portfolio/3-kecil.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/04-large.jpg",
-      "smallImage": "img/portfolio/04-small.jpg"
+      "title": "TRAINING",
+      "largeImage": "img/portfolio/4.jpeg",
+      "smallImage": "img/portfolio/4-kecil.jpeg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/05-large.jpg",
-      "smallImage": "img/portfolio/05-small.jpg"
+      "title": "OIL SPILL RESPONSE",
+      "largeImage": "img/portfolio/5.jpg",
+      "smallImage": "img/portfolio/5-kecil.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/06-large.jpg",
-      "smallImage": "img/portfolio/06-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/07-large.jpg",
-      "smallImage": "img/portfolio/07-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/08-large.jpg",
-      "smallImage": "img/portfolio/08-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/09-large.jpg",
-      "smallImage": "img/portfolio/09-small.jpg"
+      "title": "ASSESMENT",
+      "largeImage": "img/portfolio/6.jpeg",
+      "smallImage": "img/portfolio/6-kecil.jpeg"
     }
   ],
   "Services": [
     {
-      "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "img/products/oilboom.jpg",
+      "name": "Oil Boom",
+      "text": "A floating device used to contain oil on water, formed into a U-shape and towed downwind to trap the oil within its barrier."
     },
     {
-      "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "img/products/skimmer.jpg",
+      "name": "Skimmer",
+      "text": "A skimmer reads and stores credit card data from magnetic strips and is also used to remove oil from water, though debris can reduce its effectiveness."
     },
     {
-      "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "img/products/response-boat.png",
+      "name": "Response Boat",
+      "text": "The 45-foot response boat-medium is a versatile vessel used for rapid Coast Guard missions, patrols, and training from shore stations."
     },
     {
-      "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "img/products/vaccum-truck.jpg",
+      "name": "Vaccum Truck",
+      "text": "A vacuum truck is a tank truck equipped with a pump that pneumatically sucks liquids, sludge, or slurries into its tank, often from underground locations."
     },
     {
-      "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "img/products/dispersant-pump.jpg",
+      "name": "Dispersant Pump",
+      "text": "Oil spill dispersant spray systems are portable, lightweight units that can be quickly mounted on tugs and other vessels for rapid response to marine oil spill emergencies."
     },
     {
-      "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "img/products/storage-tank.jpg",
+      "name": "Storage Tank",
+      "text": "A storage tank is designed to store liquids, primarily used in the petroleum industry, but also in sectors like food (oil storage) and fertilizer."
+    },
+    {
+      "icon": "img/products/absorbent.jpg",
+      "name": "Absorbent",
+      "text": "Absorbents are insoluble materials used to recover liquids by absorbing or adsorbing them. They retain liquids within their molecular structure, causing the material to swell by 50% or more."
+    },
+    {
+      "icon": "img/products/wwtp.png",
+      "name": "Waste Water Treatment Plant (WWTP)",
+      "text": "Wastewater treatment removes contaminants from wastewater and converts it into effluent that can safely re-enter the water cycle."
     }
   ],
   "Testimonials": [
     {
-      "img": "img/testimonials/01.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "img": "img/testimonials/astra.png",
+      "name": "PT. Pelabuhan Penajam Banua Taka"
     },
     {
-      "img": "img/testimonials/02.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "img": "img/testimonials/exxon.png",
+      "name": "ExxonMobil"
     },
     {
-      "img": "img/testimonials/03.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "img": "img/testimonials/gawi.jpg",
+      "name": "Gawi"
     },
     {
-      "img": "img/testimonials/04.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "img": "img/testimonials/hcml.png",
+      "name": "Husky-CNOOC Madura Ltd"
     },
     {
-      "img": "img/testimonials/05.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "img": "img/testimonials/ibt.png",
+      "name": "PT Indonesia Bulk Terminal (IBT)"
     },
     {
-      "img": "img/testimonials/06.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "img": "img/testimonials/itm.png",
+      "name": "PT Indo Tambangraya Megah Tbk"
+    },
+    {
+      "img": "img/testimonials/ol.png",
+      "name": "PT. Dharma Lautan Nusantara"
+    },
+    {
+      "img": "img/testimonials/prima.png",
+      "name": "PT. Prima Sarana Gemilang"
+    },
+    {
+      "img": "img/testimonials/shell.png",
+      "name": "PT Shell Indonesia"
+    },
+    {
+      "img": "img/testimonials/spc.png",
+      "name": "Singapore Petroleum Company"
+    },
+    {
+      "img": "img/testimonials/thaca.jpg",
+      "name": "PT Ithaca Resources"
+    },
+    {
+      "img": "img/testimonials/tppi.jpg",
+      "name": "PT Trans-Pacific Petrochemical Indotama"
+    },
+    {
+      "img": "img/testimonials/vopak.png",
+      "name": "Royal Vopak"
+    },
+    {
+      "img": "img/testimonials/wilmar.png",
+      "name": "PT Wilmar Nabati Indonesia"
     }
   ],
   "Team": [
     {
-      "img": "img/team/01.jpg",
-      "name": "John Doe",
-      "job": "Director"
+      "img": "img/portfolio/1.jpg",
+      "name": "OSPICO Oil Dispersant",
+      "job": "PT Petro China INT’L (BERMUDA) LTD"
     },
     {
-      "img": "img/team/02.jpg",
-      "name": "Mike Doe",
-      "job": "Senior Designer"
+      "img": "img/portfolio/2.jpg",
+      "name": "OSPICO Oil Dispersant",
+      "job": "Pertamina UPMS-3 Unit TT Tanjung Gerem"
     },
     {
-      "img": "img/team/03.jpg",
-      "name": "Jane Doe",
-      "job": "Senior Designer"
+      "img": "img/portfolio/3.jpg",
+      "name": "OSPICO Oil Skimmer OS-6T, Power Pack, Oil Boom OP-27",
+      "job": "PT Pupuk Sriwijaya"
     },
     {
-      "img": "img/team/04.jpg",
-      "name": "Karen Doe",
-      "job": "Project Manager"
+      "img": "img/portfolio/4.jpeg",
+      "name": "OSPICO Oil Boom OP-SK27",
+      "job": "PT Wilmar Nabat"
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
-    "email": "info@company.com",
+    "address": "Nifarro Park, ITS Tower 12th Floor Unit. 08, Jl. Raya Pasar Minggu No.Kav. 18, Pejaten Timur, Ps. Minggu, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12510",
+    "phone": "+6219-9504-63210",
+    "email": "marketing@blueoceansejahtera.com",
     "facebook": "fb.com",
     "twitter": "twitter.com",
     "youtube": "youtube.com"

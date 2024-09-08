@@ -5,19 +5,19 @@ export const Team = (props) => {
     <div id="team" className="text-center">
       <div className="container">
         <div className="col-md-8 col-md-offset-2 section-title">
-          <h2>Meet the Team</h2>
+          <h2>Projects History</h2>
           <p>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
             dapibus leonec.
           </p>
         </div>
+
         <div id="row">
           {props.data
             ? props.data.map((d, i) => (
                 <div key={`${d.name}-${i}`} className="col-md-3 col-sm-6 team">
                   <div className="thumbnail">
-                    {" "}
-                    <img src={d.img} alt="..." className="team-img" />
+                    <img src={d.img} alt={`${d.name}`} className="team-img" />
                     <div className="caption">
                       <h4>{d.name}</h4>
                       <p>{d.job}</p>
@@ -26,6 +26,17 @@ export const Team = (props) => {
                 </div>
               ))
             : "loading"}
+        </div>
+
+        <div className="col-md-12">
+          <a
+            href="/img/Clients_and_Projects.pdf"
+            className="btn btn-primary"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            All Project History
+          </a>
         </div>
       </div>
     </div>
